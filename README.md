@@ -6,6 +6,8 @@ Nome: Leonor Figueiredo
 
 Número: 21902968
 
+Github username: Leonor9999Glitched
+
 Este relatório tem como objectivo descrever o que aconteceu durante este trabalho. O que correu bem, o que correu mal, o que se pode melhorar e que erros podem ser corrigidos.
 
 # O que aconteceu durante o projecto
