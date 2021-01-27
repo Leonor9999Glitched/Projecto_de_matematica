@@ -83,8 +83,10 @@ def main():
         delta_time = time.time() - prev_time
         prev_time = time.time()
 
+        #Variavel que vai guardar a tecla pressionada
         k = pygame.key.get_pressed()
 
+        #Cada tecla tem a sua própria ação
         if(k[pygame.K_UP]):
             angle = 15
             axis = Vector3(1, 0, 0)
@@ -116,7 +118,6 @@ def main():
         elif(k[pygame.K_e]):
             obj1.position.z = obj1.position.z - 0.001
         else:
-            obj1.position = Vector3(0, 0, 0)
             angle = 0
     
 # Run the main function
