@@ -1,7 +1,5 @@
 # Relatório de Matemática
 
-Link para o git: https://github.com/Leonor9999Glitched/Projecto_de_matematica
-
 Nome: Leonor Figueiredo
 
 Número: 21902968
